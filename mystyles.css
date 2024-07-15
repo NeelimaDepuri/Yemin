@@ -1,0 +1,15 @@
+nav{background-color:rgb(186, 231, 236);padding: 10px;}
+nav ul li {display: inline;margin-right: 15%;}
+nav ul li a{text-decoration: none;}
+nav ul li a:hover{text-decoration: underline;}
+.h{text-align: center;}
+footer{padding: 9px;background-color:none;margin-top: 4%;}
+.e{padding-top: 6%;}
+.c audio{padding-left: 55%;} 
+.c video{padding-left: 11%;}
+.c1{padding-left: 16%;}
+.c2{padding-left: 30%;}
+.c3{padding-left: 6%;}
+.c4{padding-left:25% ;}
+body{background-image: url("i3.jpg");}
+.s{display: grid;align-items: center;grid-template-columns: 1fr 1fr;column-gap: 1%;margin-left: 13%;}
